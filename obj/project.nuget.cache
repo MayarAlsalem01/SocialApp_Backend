@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8QKLwTv4kVCCnkiFDFMw/mIB75HS1HI/vQKCvCnwkHO0zxmUnNyTkBImUQcrMv99lwSV6g4gDikBcAOeuWqCtA==",
+  "dgSpecHash": "EPE+8zvZMm00rt/me+9hyE7w6q9oeEirEHhTeBnuUKHtIa5IgBAWZDISUN+V9KkfgaPlmpzhkC0BuDaTfAn0aA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\drago\\Desktop\\Projects\\SocialApp\\SocialApp.csproj",
+  "projectFilePath": "C:\\Users\\drago\\Desktop\\Github\\Backends\\SocialApp_Backend\\SocialApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drago\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

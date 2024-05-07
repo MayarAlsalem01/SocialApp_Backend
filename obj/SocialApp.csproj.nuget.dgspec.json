@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\drago\\Desktop\\Projects\\SocialApp\\SocialApp.csproj": {}
+    "C:\\Users\\drago\\Desktop\\Github\\Backends\\SocialApp_Backend\\SocialApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\drago\\Desktop\\Projects\\SocialApp\\SocialApp.csproj": {
+    "C:\\Users\\drago\\Desktop\\Github\\Backends\\SocialApp_Backend\\SocialApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drago\\Desktop\\Projects\\SocialApp\\SocialApp.csproj",
+        "projectUniqueName": "C:\\Users\\drago\\Desktop\\Github\\Backends\\SocialApp_Backend\\SocialApp.csproj",
         "projectName": "SocialApp",
-        "projectPath": "C:\\Users\\drago\\Desktop\\Projects\\SocialApp\\SocialApp.csproj",
+        "projectPath": "C:\\Users\\drago\\Desktop\\Github\\Backends\\SocialApp_Backend\\SocialApp.csproj",
         "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drago\\Desktop\\Projects\\SocialApp\\obj\\",
+        "outputPath": "C:\\Users\\drago\\Desktop\\Github\\Backends\\SocialApp_Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

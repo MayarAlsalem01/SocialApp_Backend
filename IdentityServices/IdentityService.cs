@@ -52,6 +52,7 @@ namespace SocialApp.IdentityServices
                     var userAsignToRole = await _userServices.AddUserToRoleAsync("user", user.Id);
                     var roles = await GetRolesAsync(user);
                     userCreated.Token = _tokenServices.GenerateJwtToken(user, userAsignToRole.Roles.ToList());
+                    transaction.Commit();
                     return userCreated;
                 }
                 catch(Exception ex)
